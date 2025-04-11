@@ -1,2 +1,8 @@
-# predicting-iris-flower-species
-Predict the species of an iris flower (setosa, versicolor, or virginica) based on 4 features: sepal length/width and petal length/width.
+# Iris Flower Classifier 🌸
+
+A simple machine learning project to predict iris flower species.
+
+## How to Run
+1. Install Python libraries:
+pip install pandas scikit-learn jupyter matplotlib
+2. Open `notebooks/test.ipynb` in Jupyter Notebook and run all cells.
